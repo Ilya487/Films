@@ -1,0 +1,1434 @@
+{
+  "docs": [
+    {
+      "fees": {
+        "world": {
+          "value": 426588510,
+          "currency": "$"
+        }
+      },
+      "rating": {
+        "imdb": 8.5
+      },
+      "movieLength": 112,
+      "id": 535341,
+      "name": "1+1",
+      "description": "Пострадав в результате несчастного случая, богатый аристократ Филипп нанимает в помощники человека, который менее всего подходит для этой работы, – молодого жителя предместья Дрисса, только что освободившегося из тюрьмы. Несмотря на то, что Филипп прикован к инвалидному креслу, Дриссу удается привнести в размеренную жизнь аристократа дух приключений.",
+      "year": 2011,
+      "budget": {
+        "value": 9500000,
+        "currency": "€"
+      },
+      "poster": {
+        "url": "https://st.kp.yandex.net/images/film_big/535341.jpg",
+        "previewUrl": "https://st.kp.yandex.net/images/film_iphone/iphone360_535341.jpg"
+      },
+      "genres": [
+        {
+          "name": "драма"
+        },
+        {
+          "name": "комедия"
+        },
+        {
+          "name": "биография"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Франция"
+        }
+      ],
+      "videos": {
+        "trailers": [
+          {
+            "url": "https://www.youtube.com/embed/0RqDiYnFxTk",
+            "name": "The Intouchables / Intouchables (2011) - Trailer (English subtitles)"
+          },
+          {
+            "url": "https://www.youtube.com/embed/34WIbmXkewU",
+            "name": "The Intouchables Official Trailer #1 (2012) HD Movie"
+          }
+        ]
+      },
+      "ageRating": 16
+    },
+    {
+      "fees": {
+        "world": {
+          "value": 115171795,
+          "currency": "$"
+        }
+      },
+      "rating": {
+        "imdb": 7.8
+      },
+      "movieLength": 113,
+      "id": 1143242,
+      "name": "Джентльмены",
+      "description": "Один ушлый американец ещё со студенческих лет приторговывал наркотиками, а теперь придумал схему нелегального обогащения с использованием поместий обедневшей английской аристократии и очень неплохо на этом разбогател. Другой пронырливый журналист приходит к Рэю, правой руке американца, и предлагает тому купить киносценарий, в котором подробно описаны преступления его босса при участии других представителей лондонского криминального мира — партнёра-еврея, китайской диаспоры, чернокожих спортсменов и даже русского олигарха.",
+      "year": 2019,
+      "budget": {
+        "value": 22000000,
+        "currency": "$"
+      },
+      "poster": {
+        "url": "https://st.kp.yandex.net/images/film_big/1143242.jpg",
+        "previewUrl": "https://st.kp.yandex.net/images/film_iphone/iphone360_1143242.jpg"
+      },
+      "genres": [
+        {
+          "name": "криминал"
+        },
+        {
+          "name": "комедия"
+        },
+        {
+          "name": "боевик"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Великобритания"
+        },
+        {
+          "name": "США"
+        }
+      ],
+      "videos": {
+        "trailers": [
+          {
+            "url": "http://trailers.s3.mds.yandex.net/video_original/163500-210e6edf116d3ced5bb638542fa1327f.mp4",
+            "name": "Трейлер (дублированный)"
+          },
+          {
+            "url": "http://trailers.s3.mds.yandex.net/video_original/167019-7a220d4f56cdfeb9d9c83ed896866cd0.mov",
+            "name": "Фрагмент №1 «I Love Barbie»"
+          },
+          {
+            "url": "http://trailers.s3.mds.yandex.net/video_original/167022-58beeab26efed0116f59df15b71b282b.mov",
+            "name": "Фрагмент №3 «There Is Only One Rule»"
+          },
+          {
+            "url": "http://trailers.s3.mds.yandex.net/video_original/167021-9875d952f1560923ef8929ca6e06f3ba.mov",
+            "name": "Фрагмент №2 «Phuck With a PH»"
+          },
+          {
+            "url": "http://trailers.s3.mds.yandex.net/video_original/165250-0068b7bd47bee36a120864585b7c4497.mp4",
+            "name": "Трейлер №2 (дублированный)"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=DF6G7X_ov8c",
+            "name": "Японский трейлер"
+          },
+          {
+            "url": "http://trailers.s3.mds.yandex.net/video_original/164512-6692ca82930bf4fe448d1286f722ea7d.mov",
+            "name": "Трейлер №2"
+          },
+          {
+            "url": "http://trailers.s3.mds.yandex.net/video_original/162817-11df022392bcda8bb6e12fb248e88961.mov",
+            "name": "Трейлер"
+          },
+          {
+            "url": "http://trailers.s3.mds.yandex.net/video_original/167035-d99f77dd653a39ea1a8c1cc47eb93626.mov",
+            "name": "Промо-ролик «Cannabis Glossary»"
+          },
+          {
+            "url": "http://trailers.s3.mds.yandex.net/video_original/167024-ac47ee5a836db653e34c7198114dd687.mov",
+            "name": "Фрагмент №5 «The New Gold Rush»"
+          },
+          {
+            "url": "http://trailers.s3.mds.yandex.net/video_original/167023-85c63048c2f0352835992b2fde408c55.mov",
+            "name": "Фрагмент №4 «Next Time Call First»"
+          },
+          {
+            "url": "https://www.youtube.com/embed/KlXsguV9g0E",
+            "name": "The Gentlemen | Official Trailer 2 [HD] | In Theaters January 24, 2020"
+          },
+          {
+            "url": "https://www.youtube.com/embed/2B0RpUGss2c",
+            "name": "The Gentlemen | Official Trailer [HD] | Coming Soon to Theaters"
+          },
+          {
+            "url": "https://www.youtube.com/embed/e-aiHVdRlJg",
+            "name": "ДЖЕНТЛЬМЕНЫ | Трейлер #2 | В кино с 13 февраля"
+          },
+          {
+            "url": "https://www.youtube.com/embed/Fui5_1tTuac",
+            "name": "ДЖЕНТЛЬМЕНЫ | Трейлер | В кино с 13 февраля"
+          }
+        ]
+      },
+      "ageRating": 18
+    },
+    {
+      "fees": {
+        "world": {
+          "value": 392000694,
+          "currency": "$"
+        }
+      },
+      "rating": {
+        "imdb": 8.2
+      },
+      "movieLength": 180,
+      "id": 462682,
+      "name": "Волк с Уолл-стрит",
+      "description": "1987 год. Джордан Белфорт становится брокером в успешном инвестиционном банке. Вскоре банк закрывается после внезапного обвала индекса Доу-Джонса. По совету жены Терезы Джордан устраивается в небольшое заведение, занимающееся мелкими акциями. Его настойчивый стиль общения с клиентами и врождённая харизма быстро даёт свои плоды. Он знакомится с соседом по дому Донни, торговцем, который сразу находит общий язык с Джорданом и решает открыть с ним собственную фирму. В качестве сотрудников они нанимают нескольких друзей Белфорта, его отца Макса и называют компанию «Стрэттон Оукмонт». В свободное от работы время Джордан прожигает жизнь: лавирует от одной вечеринки к другой, вступает в сексуальные отношения с проститутками, употребляет множество наркотических препаратов, в том числе кокаин и кваалюд. Однажды наступает момент, когда быстрым обогащением Белфорта начинает интересоваться агент ФБР...",
+      "year": 2013,
+      "budget": {
+        "value": 100000000,
+        "currency": "$"
+      },
+      "poster": {
+        "url": "https://st.kp.yandex.net/images/film_big/462682.jpg",
+        "previewUrl": "https://st.kp.yandex.net/images/film_iphone/iphone360_462682.jpg"
+      },
+      "genres": [
+        {
+          "name": "драма"
+        },
+        {
+          "name": "криминал"
+        },
+        {
+          "name": "биография"
+        },
+        {
+          "name": "комедия"
+        }
+      ],
+      "countries": [
+        {
+          "name": "США"
+        }
+      ],
+      "videos": {
+        "trailers": [
+          {
+            "url": "https://www.youtube.com/embed/mdGQL6v7jtg",
+            "name": "The Wolf of Wall Street | Official Red Band Trailer (2013) Leonardo DiCaprio, Margot Robbie"
+          },
+          {
+            "url": "https://www.youtube.com/embed/W8oTil54t1s",
+            "name": "Волк с Уолл-стрит - Trailer"
+          }
+        ]
+      },
+      "ageRating": 18
+    },
+    {
+      "videos": {
+        "trailers": [
+          {
+            "url": "https://widgets.kinopoisk.ru/discovery/trailer/16436?onlyPlayer=1&autoplay=1&cover=1",
+            "name": "ТВ-ролик"
+          },
+          {
+            "url": "https://widgets.kinopoisk.ru/discovery/trailer/134555?onlyPlayer=1&autoplay=1&cover=1",
+            "name": "Фрагмент №3"
+          },
+          {
+            "url": "https://www.youtube.com/v/Pz448cCA4IA",
+            "name": "Фрагмент №2"
+          },
+          {
+            "url": "https://www.youtube.com/v/EObKzhHN_xM",
+            "name": "Музыкальный клип"
+          },
+          {
+            "url": "https://www.youtube.com/v/RBjM7Gi9nN0",
+            "name": "Фрагмент"
+          },
+          {
+            "url": "https://www.youtube.com/v/Zq55yxODJiA",
+            "name": "Трейлер"
+          },
+          {
+            "url": "https://www.youtube.com/embed/cD2MCd7grm4",
+            "name": "Брат - Trailer"
+          },
+          {
+            "url": "https://www.youtube.com/embed/Zq55yxODJiA",
+            "name": "Брат - Трейлер (1997)"
+          }
+        ]
+      },
+      "id": 41519,
+      "name": "Брат",
+      "rating": {
+        "imdb": 7.8
+      },
+      "description": "Демобилизовавшись, Данила Багров вернулся в родной городок. Но скучная жизнь российской провинции не устраивала его, и он решился податься в Петербург, где, по слухам, уже несколько лет процветает его старший брат. Данила нашел брата. Но все оказалось не так просто — брат работает наемным убийцей.",
+      "year": 1997,
+      "poster": {
+        "url": "https://st.kp.yandex.net/images/film_big/41519.jpg",
+        "previewUrl": "https://st.kp.yandex.net/images/film_iphone/iphone360_41519.jpg"
+      },
+      "genres": [
+        {
+          "name": "драма"
+        },
+        {
+          "name": "криминал"
+        },
+        {
+          "name": "боевик"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Россия"
+        }
+      ],
+      "movieLength": 100,
+      "fees": {
+        "world": {
+          "value": 1362281,
+          "currency": "$"
+        }
+      },
+      "ageRating": 18
+    },
+    {
+      "fees": {
+        "world": {
+          "value": 476684675,
+          "currency": "$"
+        }
+      },
+      "rating": {
+        "imdb": 7.7
+      },
+      "movieLength": 103,
+      "id": 8124,
+      "name": "Один дома",
+      "description": "Американское семейство отправляется из Чикаго в Европу, но в спешке сборов бестолковые родители забывают дома... одного из своих детей. Юное создание, однако, не теряется и демонстрирует чудеса изобретательности. И когда в дом залезают грабители, им приходится не раз пожалеть о встрече с милым крошкой.",
+      "year": 1990,
+      "budget": {
+        "value": 18000000,
+        "currency": "$"
+      },
+      "poster": {
+        "url": "https://st.kp.yandex.net/images/film_big/8124.jpg",
+        "previewUrl": "https://st.kp.yandex.net/images/film_iphone/iphone360_8124.jpg"
+      },
+      "genres": [
+        {
+          "name": "комедия"
+        },
+        {
+          "name": "семейный"
+        }
+      ],
+      "countries": [
+        {
+          "name": "США"
+        }
+      ],
+      "videos": {
+        "trailers": [
+          {
+            "url": "https://widgets.kinopoisk.ru/discovery/trailer/88073?onlyPlayer=1&autoplay=1&cover=1",
+            "name": "О съёмках"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=oGrLLn4nooQ",
+            "name": "Трейлер №2"
+          },
+          {
+            "url": "https://widgets.kinopoisk.ru/discovery/trailer/88074?onlyPlayer=1&autoplay=1&cover=1",
+            "name": "Неудачные дубли"
+          },
+          {
+            "url": "https://widgets.kinopoisk.ru/discovery/trailer/3672?onlyPlayer=1&autoplay=1&cover=1",
+            "name": "Трейлер"
+          },
+          {
+            "url": "https://widgets.kinopoisk.ru/discovery/trailer/88692?onlyPlayer=1&autoplay=1&cover=1",
+            "name": "Трейлер (дублированный)"
+          },
+          {
+            "url": "https://www.youtube.com/embed/sptc2IcHnc4",
+            "name": "Home Alone (1990) ORIGINAL TRAILER [HD 1080p]"
+          },
+          {
+            "url": "https://www.youtube.com/embed/dzdpqRGA1qc",
+            "name": "Official Re-Release Trailer"
+          },
+          {
+            "url": "https://www.youtube.com/embed/0iNmVVlmmv8",
+            "name": "Trailer"
+          }
+        ]
+      },
+      "ageRating": 0
+    },
+    {
+      "fees": {
+        "world": {
+          "value": 2923905528,
+          "currency": "$"
+        }
+      },
+      "rating": {
+        "imdb": 7.9
+      },
+      "movieLength": 162,
+      "id": 251733,
+      "name": "Аватар",
+      "description": "Бывший морпех Джейк Салли прикован к инвалидному креслу. Несмотря на немощное тело, Джейк в душе по-прежнему остается воином. Он получает задание совершить путешествие в несколько световых лет к базе землян на планете Пандора, где корпорации добывают редкий минерал, имеющий огромное значение для выхода Земли из энергетического кризиса.",
+      "year": 2009,
+      "budget": {
+        "value": 237000000,
+        "currency": "$"
+      },
+      "poster": {
+        "url": "https://st.kp.yandex.net/images/film_big/251733.jpg",
+        "previewUrl": "https://st.kp.yandex.net/images/film_iphone/iphone360_251733.jpg"
+      },
+      "genres": [
+        {
+          "name": "фантастика"
+        },
+        {
+          "name": "боевик"
+        },
+        {
+          "name": "драма"
+        },
+        {
+          "name": "приключения"
+        }
+      ],
+      "countries": [
+        {
+          "name": "США"
+        }
+      ],
+      "videos": {
+        "trailers": [
+          {
+            "url": "https://www.youtube.com/v/n55gvskwpoI",
+            "name": "Фан-ролик №2"
+          },
+          {
+            "url": "https://www.youtube.com/v/II66zkU1D0Q",
+            "name": "ТВ-ролик специальной версии"
+          },
+          {
+            "url": "https://www.youtube.com/v/i38C12T4xWQ",
+            "name": "Видео со съёмок клипа Leona Lewis - I See You"
+          },
+          {
+            "url": "https://www.youtube.com/v/LJKxcbcvxa4",
+            "name": "О съёмках №19 «Нейтири»"
+          },
+          {
+            "url": "https://www.youtube.com/v/GvpiHmXy4_o",
+            "name": "Фрагмент №9 (русские субтитры)"
+          },
+          {
+            "url": "https://www.youtube.com/v/k_LfQtw5VF8",
+            "name": "Фрагмент №8"
+          },
+          {
+            "url": "https://www.youtube.com/v/HTDHbVZEHrk",
+            "name": "Японский ТВ-ролик №3"
+          },
+          {
+            "url": "https://www.youtube.com/v/maemFXECiLo",
+            "name": "Фан-ролик №3"
+          },
+          {
+            "url": "https://playlist.yahoo.com/makeplaylist.dll?sid=96012713&sdm=web&pt=rd",
+            "name": "Трейлер"
+          },
+          {
+            "url": "https://www.youtube.com/v/cx3EDP6-XVk",
+            "name": "ТВ-ролик специальной версии №2"
+          },
+          {
+            "url": "https://www.youtube.com/v/YdzVTpHaHvk",
+            "name": "Фрагмент №7"
+          },
+          {
+            "url": "https://widgets.kinopoisk.ru/discovery/trailer/19148?onlyPlayer=1&autoplay=1&cover=1",
+            "name": "О съёмках №5"
+          },
+          {
+            "url": "https://widgets.kinopoisk.ru/discovery/trailer/18691?onlyPlayer=1&autoplay=1&cover=1",
+            "name": "Рекламный ролик LG Chocolate"
+          },
+          {
+            "url": "https://www.youtube.com/v/CTOnZCvoI5A",
+            "name": "ТВ-ролик №18"
+          },
+          {
+            "url": "https://www.youtube.com/v/NaMu9ONtWcA",
+            "name": "Японский ТВ-ролик №2"
+          },
+          {
+            "url": "https://widgets.kinopoisk.ru/discovery/trailer/18381?onlyPlayer=1&autoplay=1&cover=1",
+            "name": "Трейлер (дублированный)"
+          },
+          {
+            "url": "https://widgets.kinopoisk.ru/discovery/trailer/19873?onlyPlayer=1&autoplay=1&cover=1",
+            "name": "Фрагмент №10"
+          },
+          {
+            "url": "https://www.youtube.com/v/_DM89-TOryk",
+            "name": "ТВ-ролик №6"
+          },
+          {
+            "url": "https://www.youtube.com/v/-7AaKjJ4YNo",
+            "name": "О съёмках №14"
+          },
+          {
+            "url": "https://www.youtube.com/v/T2kUOrr7zZM",
+            "name": "О съёмках №13"
+          },
+          {
+            "url": "https://www.youtube.com/v/GBFDAo5pNns",
+            "name": "О съёмках №4"
+          },
+          {
+            "url": "https://www.youtube.com/v/bg0devLqZtQ",
+            "name": "Интервью №2 с Джеймсом Кэмероном"
+          },
+          {
+            "url": "https://www.youtube.com/v/PiT2NK8z_EQ",
+            "name": "Blu-ray/DVD-ролик №5"
+          },
+          {
+            "url": "https://www.youtube.com/v/49Hg_4jRHFI",
+            "name": "Мир Пандоры"
+          },
+          {
+            "url": "https://www.youtube.com/v/U7E5KKz9qwk",
+            "name": "ТВ-ролик №12"
+          },
+          {
+            "url": "https://www.youtube.com/v/AZqpJX11Ko8",
+            "name": "ТВ-ролик №10"
+          },
+          {
+            "url": "https://www.youtube.com/v/6Wjkkq2SYBE",
+            "name": "ТВ-ролик №9"
+          },
+          {
+            "url": "https://www.youtube.com/v/Zeu_aR4ZURk",
+            "name": "ТВ-ролик №8"
+          },
+          {
+            "url": "https://www.youtube.com/v/dKFbI6p-L04",
+            "name": "О съёмках №16"
+          },
+          {
+            "url": "https://widgets.kinopoisk.ru/discovery/trailer/19218?onlyPlayer=1&autoplay=1&cover=1",
+            "name": "О съёмках №3 (русский язык)"
+          },
+          {
+            "url": "https://www.youtube.com/v/Yak1drLKivw",
+            "name": "О съёмках №12"
+          },
+          {
+            "url": "https://www.youtube.com/v/QpkMovaEjlM",
+            "name": "О съёмках №11"
+          },
+          {
+            "url": "https://www.youtube.com/v/kYem8Kebop8",
+            "name": "О съёмках №9"
+          },
+          {
+            "url": "https://www.youtube.com/v/K7eLiCefjXs",
+            "name": "Интервью №3 с Джеймсом Кэмероном"
+          },
+          {
+            "url": "https://widgets.kinopoisk.ru/discovery/trailer/18352?onlyPlayer=1&autoplay=1&cover=1",
+            "name": "Трейлер с тайскими субтитрами"
+          },
+          {
+            "url": "https://www.youtube.com/v/iyyRTcCUGqg",
+            "name": "Промо-ролик"
+          },
+          {
+            "url": "https://www.youtube.com/v/Jxt2Gwp7tx0",
+            "name": "О съёмках №18 - Сюжет"
+          },
+          {
+            "url": "http://vod-flash.canalplus.fr/WWWPLUS/PROGRESSIF/0912/CINEMA_EN_SALLES_BONUS_091203_CAN_111433_video_H.flv",
+            "name": "О съёмках №17 «Пандора»"
+          },
+          {
+            "url": "https://widgets.kinopoisk.ru/discovery/trailer/19532?onlyPlayer=1&autoplay=1&cover=1",
+            "name": "О съёмках (русский язык)"
+          },
+          {
+            "url": "https://www.youtube.com/v/oAE3sGQpD14",
+            "name": "Рекламный ролик McDonald`s"
+          },
+          {
+            "url": "https://widgets.kinopoisk.ru/discovery/trailer/19484?onlyPlayer=1&autoplay=1&cover=1",
+            "name": "Фрагмент №2"
+          },
+          {
+            "url": "https://www.youtube.com/v/ZD8EEJepfiY",
+            "name": "ТВ-ролик №13"
+          },
+          {
+            "url": "https://www.youtube.com/v/BfUnoWFf7A8",
+            "name": "ТВ-ролик №11"
+          },
+          {
+            "url": "https://www.youtube.com/v/HjE16rE3EqM",
+            "name": "ТВ-ролик №7"
+          },
+          {
+            "url": "https://www.youtube.com/v/qJLIuWTfMgk",
+            "name": "ТВ-ролик №4"
+          },
+          {
+            "url": "https://www.youtube.com/v/uyeTXZ6NcKk",
+            "name": "О съёмках №15"
+          },
+          {
+            "url": "https://www.youtube.com/v/Rv5H7NHo9eM",
+            "name": "О съёмках №10"
+          },
+          {
+            "url": "https://www.youtube.com/v/xd1o1KYJASk",
+            "name": "О съёмках №8"
+          },
+          {
+            "url": "https://www.youtube.com/v/XBweOgCt7us",
+            "name": "О съёмках - Джеймс Кэмерон"
+          },
+          {
+            "url": "https://widgets.kinopoisk.ru/discovery/trailer/32467?onlyPlayer=1&autoplay=1&cover=1",
+            "name": "Интервью №2 с Джеймсом Кэмероном (русский язык)"
+          },
+          {
+            "url": "https://www.youtube.com/v/goen6DXK-1s",
+            "name": " ТВ-ролик специальной версии №3"
+          },
+          {
+            "url": "https://www.youtube.com/v/EcdBTbo9nok",
+            "name": "Blu-ray/DVD-ролик №2"
+          },
+          {
+            "url": "https://widgets.kinopoisk.ru/discovery/trailer/24322?onlyPlayer=1&autoplay=1&cover=1",
+            "name": "Blu-ray/DVD-ролик"
+          },
+          {
+            "url": "https://www.youtube.com/v/1VBa59zVuQU",
+            "name": "Фан-ролик"
+          },
+          {
+            "url": "https://www.youtube.com/v/G2J6xs6bMGw",
+            "name": "ТВ-ролик №21"
+          },
+          {
+            "url": "https://widgets.kinopoisk.ru/discovery/trailer/21134?onlyPlayer=1&autoplay=1&cover=1",
+            "name": "О съёмках №21"
+          },
+          {
+            "url": "https://www.youtube.com/v/0mjm4XXJ-wE",
+            "name": "Музыкальный клип Leona Lewis - I See You"
+          },
+          {
+            "url": "https://www.youtube.com/v/t0OCCuqcyGg",
+            "name": "ТВ-ролик №20"
+          },
+          {
+            "url": "https://www.youtube.com/v/cVQC6IUDih8",
+            "name": "ТВ-ролик №19"
+          },
+          {
+            "url": "https://www.youtube.com/v/5yKjI0iZSsM",
+            "name": "ТВ-ролик №17"
+          },
+          {
+            "url": "https://www.youtube.com/v/jQdoWgd5INo",
+            "name": "ТВ-ролик №16"
+          },
+          {
+            "url": "https://www.youtube.com/v/-jPslD0CF9g",
+            "name": "ТВ-ролик №15"
+          },
+          {
+            "url": "https://www.youtube.com/v/StI04ssV-y8",
+            "name": "ТВ-ролик №14"
+          },
+          {
+            "url": "https://www.youtube.com/v/sr9fFEEtA1c",
+            "name": "ТВ-ролик №5"
+          },
+          {
+            "url": "https://www.youtube.com/v/Iy7iCoxv2Uc",
+            "name": "О съёмках №7"
+          },
+          {
+            "url": "https://www.youtube.com/v/a1Jnr5a62Tg",
+            "name": "О съёмках №6"
+          },
+          {
+            "url": "http://moviesmovies.ign.com/movies/video/article/104/1047900/avatar_trl_thanator_chase_qtlowwide.mov",
+            "name": "Фрагмент №1"
+          },
+          {
+            "url": "http://moviesmovies.ign.com/movies/video/article/104/1047591/avatar_hardware_flvhighwide.flv",
+            "name": "О съёмках №3"
+          },
+          {
+            "url": "http://cdn.springboard.gorillanation.com/storage/comingsoon.net/conversion/95803.flv",
+            "name": "Японский трейлер"
+          },
+          {
+            "url": "https://www.youtube.com/v/UNEeplg6Azg",
+            "name": "ТВ-ролик №1"
+          },
+          {
+            "url": "https://www.youtube.com/v/geNv6FUK0HU",
+            "name": "О съёмках"
+          },
+          {
+            "url": "https://widgets.kinopoisk.ru/discovery/trailer/16998?onlyPlayer=1&autoplay=1&cover=1",
+            "name": "Рекламный ролик Panasonic"
+          },
+          {
+            "url": "https://www.youtube.com/v/4J8ePPq1A0U",
+            "name": "Русский телевизионный трейлер"
+          },
+          {
+            "url": "https://widgets.kinopoisk.ru/discovery/trailer/36375?onlyPlayer=1&autoplay=1&cover=1",
+            "name": "Blu-ray/DVD-ролик №6"
+          },
+          {
+            "url": "https://www.youtube.com/v/sGhnxm2VrzY",
+            "name": "Blu-ray/DVD-ролик №4"
+          },
+          {
+            "url": "https://www.youtube.com/v/ODFAcv-lVKE",
+            "name": "Русский ТВ-ролик специальной версии"
+          },
+          {
+            "url": "https://www.youtube.com/v/xfw1Of_96KU",
+            "name": "Blu-ray/DVD-ролик №3"
+          },
+          {
+            "url": "https://www.youtube.com/v/P2_vB7zx_SQ",
+            "name": "О съёмках №20"
+          },
+          {
+            "url": "https://www.youtube.com/v/AHcaAea4sUA",
+            "name": "Интервью с участниками проекта"
+          },
+          {
+            "url": "https://widgets.kinopoisk.ru/discovery/trailer/19767?onlyPlayer=1&autoplay=1&cover=1",
+            "name": "Пресс-конференция"
+          },
+          {
+            "url": "https://www.youtube.com/v/CXF-VZVdR2Y",
+            "name": "Фрагмент №6"
+          },
+          {
+            "url": "https://www.youtube.com/v/ihLesaabcjU",
+            "name": "Фрагмент №5"
+          },
+          {
+            "url": "https://www.youtube.com/v/HrBrkv3vSGY",
+            "name": "Фрагмент №4"
+          },
+          {
+            "url": "https://widgets.kinopoisk.ru/discovery/trailer/19694?onlyPlayer=1&autoplay=1&cover=1",
+            "name": "Интервью Джеймса Кэмерона и Сигурни Уивер Первому Каналу"
+          },
+          {
+            "url": "http://moviesmovies.ign.com/movies/video/article/105/1052354/avatar_see_faces_120709_qthighwide.mov",
+            "name": "Фрагмент №3 «You Should See Your Faces»"
+          },
+          {
+            "url": "https://www.youtube.com/v/FGL6CWMFJ7o",
+            "name": "Японский ТВ-ролик №1"
+          },
+          {
+            "url": "https://widgets.kinopoisk.ru/discovery/trailer/18911?onlyPlayer=1&autoplay=1&cover=1",
+            "name": "О съёмках №2"
+          },
+          {
+            "url": "https://www.youtube.com/v/8PXbwNjT-lM",
+            "name": "Телевизионный трейлер"
+          },
+          {
+            "url": "https://www.youtube.com/v/RBUJiXErE6E",
+            "name": "ТВ-ролик №3"
+          },
+          {
+            "url": "https://www.youtube.com/v/UXPoQenVQxI",
+            "name": "ТВ-ролик №2"
+          },
+          {
+            "url": "https://widgets.kinopoisk.ru/discovery/trailer/18541?onlyPlayer=1&autoplay=1&cover=1",
+            "name": "Рекламный ролик Coke Zero"
+          },
+          {
+            "url": "https://widgets.kinopoisk.ru/discovery/trailer/15649?onlyPlayer=1&autoplay=1&cover=1",
+            "name": "Тизер (дублированный)"
+          },
+          {
+            "url": "https://widgets.kinopoisk.ru/discovery/trailer/15597?onlyPlayer=1&autoplay=1&cover=1",
+            "name": "Тизер"
+          },
+          {
+            "url": "https://www.youtube.com/embed/jm2sNLIPPvA",
+            "name": "Back in Theatres"
+          },
+          {
+            "url": "https://www.youtube.com/embed/5PSNL1qE6VY",
+            "name": "Official Trailer"
+          },
+          {
+            "url": "https://www.youtube.com/embed/4HFlPcX2HFo",
+            "name": "Аватар [дублированный трейлер HD]"
+          }
+        ]
+      },
+      "ageRating": 12
+    },
+    {
+      "fees": {
+        "world": {
+          "value": 28418687,
+          "currency": "$"
+        }
+      },
+      "rating": {
+        "imdb": 9.3
+      },
+      "movieLength": 142,
+      "id": 326,
+      "name": "Побег из Шоушенка",
+      "description": "Бухгалтер Энди Дюфрейн обвинён в убийстве собственной жены и её любовника. Оказавшись в тюрьме под названием Шоушенк, он сталкивается с жестокостью и беззаконием, царящими по обе стороны решётки. Каждый, кто попадает в эти стены, становится их рабом до конца жизни. Но Энди, обладающий живым умом и доброй душой, находит подход как к заключённым, так и к охранникам, добиваясь их особого к себе расположения.",
+      "year": 1994,
+      "budget": {
+        "value": 25000000,
+        "currency": "$"
+      },
+      "poster": {
+        "url": "https://st.kp.yandex.net/images/film_big/326.jpg",
+        "previewUrl": "https://st.kp.yandex.net/images/film_iphone/iphone360_326.jpg"
+      },
+      "genres": [
+        {
+          "name": "драма"
+        }
+      ],
+      "countries": [
+        {
+          "name": "США"
+        }
+      ],
+      "videos": {
+        "trailers": [
+          {
+            "url": "https://www.youtube.com/embed/PLl99DlL6b4",
+            "name": "Trailer"
+          },
+          {
+            "url": "https://www.youtube.com/embed/vYsQ5mu5Xow",
+            "name": "The Shawshank Redemption (1994) original theatrical trailer"
+          },
+          {
+            "url": "https://www.youtube.com/embed/P9mwtI82k6E",
+            "name": "The Shawshank Redemption (1994) OFFICIAL TRAILER [HD 1080p]"
+          },
+          {
+            "url": "https://www.youtube.com/embed/GOniB0Ykp1M",
+            "name": "Побег из Шоушенка трейлер на русском"
+          }
+        ]
+      },
+      "ageRating": 16
+    },
+    {
+      "fees": {
+        "world": {
+          "value": 828322032,
+          "currency": "$"
+        }
+      },
+      "rating": {
+        "imdb": 8.8
+      },
+      "movieLength": 148,
+      "id": 447301,
+      "name": "Начало",
+      "description": "Кобб – талантливый вор, лучший из лучших в опасном искусстве извлечения: он крадет ценные секреты из глубин подсознания во время сна, когда человеческий разум наиболее уязвим. Редкие способности Кобба сделали его ценным игроком в привычном к предательству мире промышленного шпионажа, но они же превратили его в извечного беглеца и лишили всего, что он когда-либо любил. \n\nИ вот у Кобба появляется шанс исправить ошибки. Его последнее дело может вернуть все назад, но для этого ему нужно совершить невозможное – инициацию. Вместо идеальной кражи Кобб и его команда спецов должны будут провернуть обратное. Теперь их задача – не украсть идею, а внедрить ее. Если у них получится, это и станет идеальным преступлением. \n\nНо никакое планирование или мастерство не могут подготовить команду к встрече с опасным противником, который, кажется, предугадывает каждый их ход. Врагом, увидеть которого мог бы лишь Кобб.",
+      "year": 2010,
+      "budget": {
+        "value": 160000000,
+        "currency": "$"
+      },
+      "poster": {
+        "url": "https://st.kp.yandex.net/images/film_big/447301.jpg",
+        "previewUrl": "https://st.kp.yandex.net/images/film_iphone/iphone360_447301.jpg"
+      },
+      "genres": [
+        {
+          "name": "фантастика"
+        },
+        {
+          "name": "боевик"
+        },
+        {
+          "name": "триллер"
+        },
+        {
+          "name": "драма"
+        },
+        {
+          "name": "детектив"
+        }
+      ],
+      "countries": [
+        {
+          "name": "США"
+        },
+        {
+          "name": "Великобритания"
+        }
+      ],
+      "videos": {
+        "trailers": [
+          {
+            "url": "https://www.youtube.com/embed/Jvurpf91omw",
+            "name": "Official Trailer"
+          },
+          {
+            "url": "https://www.youtube.com/embed/RlKr_lO45Nc",
+            "name": "Начало (2010) — русский трейлер HD"
+          },
+          {
+            "url": "https://www.youtube.com/embed/JE9z-gy4De4",
+            "name": "Official New UK Trailer"
+          }
+        ]
+      },
+      "ageRating": 12
+    },
+    {
+      "fees": {
+        "world": {
+          "value": 286801374,
+          "currency": "$"
+        }
+      },
+      "rating": {
+        "imdb": 8.6
+      },
+      "movieLength": 189,
+      "id": 435,
+      "name": "Зеленая миля",
+      "description": "Пол Эджкомб — начальник блока смертников в тюрьме «Холодная гора», каждый из узников которого однажды проходит «зеленую милю» по пути к месту казни. Пол повидал много заключённых и надзирателей за время работы. Однако гигант Джон Коффи, обвинённый в страшном преступлении, стал одним из самых необычных обитателей блока.",
+      "year": 1999,
+      "budget": {
+        "value": 60000000,
+        "currency": "$"
+      },
+      "poster": {
+        "url": "https://st.kp.yandex.net/images/film_big/435.jpg",
+        "previewUrl": "https://st.kp.yandex.net/images/film_iphone/iphone360_435.jpg"
+      },
+      "genres": [
+        {
+          "name": "драма"
+        },
+        {
+          "name": "фэнтези"
+        },
+        {
+          "name": "криминал"
+        }
+      ],
+      "countries": [
+        {
+          "name": "США"
+        }
+      ],
+      "videos": {
+        "trailers": [
+          {
+            "url": "https://www.youtube.com/embed/Bg7epsq0OIQ",
+            "name": "Official Trailer"
+          },
+          {
+            "url": "https://www.youtube.com/embed/TODt_q-_4C4",
+            "name": "Зеленая миля (1999) — русский трейлер"
+          }
+        ]
+      },
+      "ageRating": 16
+    },
+    {
+      "videos": {
+        "trailers": [
+          {
+            "url": "https://www.youtube.com/v/tpUDctrOPr4",
+            "name": "Фан-ролик"
+          },
+          {
+            "url": "https://www.youtube.com/v/bwqw0IAt3LM",
+            "name": "Фрагмент"
+          },
+          {
+            "url": "https://widgets.kinopoisk.ru/discovery/trailer/134503?onlyPlayer=1&autoplay=1&cover=1",
+            "name": "Фрагмент №4"
+          },
+          {
+            "url": "https://www.youtube.com/v/cjtzpkPnC3E",
+            "name": "Фрагмент №3"
+          },
+          {
+            "url": "https://www.youtube.com/v/kijz3I_lKdY",
+            "name": "Фрагмент №2"
+          },
+          {
+            "url": "https://www.youtube.com/embed/0IALFVo90K4",
+            "name": "Иван Васильевич меняет профессию - трейлер"
+          },
+          {
+            "url": "https://www.youtube.com/embed/APPwR-Si4hE",
+            "name": "Иван Васильевич меняет профессию - Trailer"
+          }
+        ]
+      },
+      "id": 42664,
+      "name": "Иван Васильевич меняет профессию",
+      "rating": {
+        "imdb": 8.2
+      },
+      "description": "Инженер-изобретатель Тимофеев сконструировал машину времени, которая соединила его квартиру с далеким шестнадцатым веком - точнее, с палатами государя Ивана Грозного. Туда-то и попадают тезка царя пенсионер-общественник Иван Васильевич Бунша и квартирный вор Жорж Милославский.\n\nНа их место в двадцатом веке «переселяется» великий государь. Поломка машины приводит ко множеству неожиданных и забавных событий...",
+      "year": 1973,
+      "poster": {
+        "url": "https://st.kp.yandex.net/images/film_big/42664.jpg",
+        "previewUrl": "https://st.kp.yandex.net/images/film_iphone/iphone360_42664.jpg"
+      },
+      "genres": [
+        {
+          "name": "комедия"
+        },
+        {
+          "name": "фантастика"
+        },
+        {
+          "name": "приключения"
+        }
+      ],
+      "countries": [
+        {
+          "name": "СССР"
+        }
+      ],
+      "movieLength": 88,
+      "ageRating": 6
+    },
+    {
+      "fees": {
+        "world": {
+          "value": 312897920,
+          "currency": "$"
+        }
+      },
+      "rating": {
+        "imdb": 7.9
+      },
+      "movieLength": 130,
+      "id": 1188529,
+      "name": "Достать ножи",
+      "description": "На следующее утро после празднования 85-летия известного автора криминальных романов Харлана Тромби виновника торжества находят мёртвым. Налицо — явное самоубийство, но полиция по протоколу опрашивает всех присутствующих в особняке членов семьи, хотя, в этом деле больше заинтересован частный детектив Бенуа Блан. Тем же утром он получил конверт с наличными от неизвестного и заказ на расследование смерти Харлана. Не нужно быть опытным следователем, чтобы понять, что все приукрашивают свои отношения с почившим главой семейства, но Блану достаётся настоящий подарок — медсестра покойного, которая физически не выносит ложь.",
+      "year": 2019,
+      "budget": {
+        "value": 40000000,
+        "currency": "$"
+      },
+      "poster": {
+        "url": "https://st.kp.yandex.net/images/film_big/1188529.jpg",
+        "previewUrl": "https://st.kp.yandex.net/images/film_iphone/iphone360_1188529.jpg"
+      },
+      "genres": [
+        {
+          "name": "детектив"
+        },
+        {
+          "name": "комедия"
+        },
+        {
+          "name": "драма"
+        },
+        {
+          "name": "криминал"
+        }
+      ],
+      "countries": [
+        {
+          "name": "США"
+        }
+      ],
+      "videos": {
+        "trailers": [
+          {
+            "url": "https://www.youtube.com/embed/sL-9Khv7wa4",
+            "name": "Trailer 2"
+          },
+          {
+            "url": "https://www.youtube.com/embed/qGqiHJTsRkQ",
+            "name": "Official Trailer"
+          },
+          {
+            "url": "https://www.youtube.com/embed/Wi3wPg4IaeA",
+            "name": "Достать ножи - Финальный трейлер"
+          },
+          {
+            "url": "https://www.youtube.com/embed/qOg3AoRc4nI",
+            "name": "Final Trailer"
+          }
+        ]
+      },
+      "ageRating": 18
+    },
+    {
+      "rating": {
+        "imdb": 8.1
+      },
+      "movieLength": 143,
+      "id": 4374,
+      "name": "Пираты Карибского моря: Проклятие Черной жемчужины",
+      "description": "Жизнь харизматичного авантюриста, капитана Джека Воробья, полная увлекательных приключений, резко меняется, когда его заклятый враг капитан Барбосса похищает корабль Джека Черную Жемчужину, а затем нападает на Порт Ройал и крадет прекрасную дочь губернатора Элизабет Свонн.\n\nДруг детства Элизабет Уилл Тернер вместе с Джеком возглавляет спасательную экспедицию на самом быстром корабле Британии, чтобы вызволить девушку и заодно отобрать у злодея Черную Жемчужину. Вслед за этой парочкой отправляется амбициозный коммодор Норрингтон, который к тому же числится женихом Элизабет.\n\nОднако Уилл не знает, что над Барбоссой висит вечное проклятие, при лунном свете превращающее его с командой в живых скелетов. Проклятье будет снято лишь тогда, когда украденное золото Ацтеков будет возвращено пиратами на старое место.",
+      "year": 2003,
+      "budget": {
+        "value": 140000000,
+        "currency": "$"
+      },
+      "poster": {
+        "url": "https://st.kp.yandex.net/images/film_big/4374.jpg",
+        "previewUrl": "https://st.kp.yandex.net/images/film_iphone/iphone360_4374.jpg"
+      },
+      "genres": [
+        {
+          "name": "фэнтези"
+        },
+        {
+          "name": "боевик"
+        },
+        {
+          "name": "приключения"
+        }
+      ],
+      "countries": [
+        {
+          "name": "США"
+        }
+      ],
+      "videos": {
+        "trailers": [
+          {
+            "url": "https://www.youtube.com/v/0Z1XpfbuZOA",
+            "name": "Трейлер"
+          },
+          {
+            "url": "https://widgets.kinopoisk.ru/discovery/trailer/530?onlyPlayer=1&autoplay=1&cover=1",
+            "name": "Тизер"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=MWSPV5xKUDg",
+            "name": "Трейлер (русский язык)"
+          },
+          {
+            "url": "https://www.youtube.com/embed/naQr0uTrH_s",
+            "name": "Pirates of the Caribbean: The Curse of the Black Pearl Official Trailer 1 (2003) HD"
+          },
+          {
+            "url": "https://www.youtube.com/embed/0xxLhqjbB2Y",
+            "name": "Проклятие Чёрной жемчужины - Трейлер"
+          }
+        ]
+      },
+      "fees": {
+        "world": {
+          "value": 654264015,
+          "currency": "$"
+        }
+      },
+      "ageRating": 12
+    },
+    {
+      "fees": {
+        "world": {
+          "value": 974755371,
+          "currency": "$"
+        }
+      },
+      "rating": {
+        "imdb": 7.6
+      },
+      "movieLength": 152,
+      "id": 689,
+      "name": "Гарри Поттер и философский камень",
+      "description": "Жизнь десятилетнего Гарри Поттера нельзя назвать сладкой: родители умерли, едва ему исполнился год, а от дяди и тёти, взявших сироту на воспитание, достаются лишь тычки да подзатыльники. Но в одиннадцатый день рождения Гарри всё меняется. Странный гость, неожиданно появившийся на пороге, приносит письмо, из которого мальчик узнаёт, что на самом деле он - волшебник и зачислен в школу магии под названием Хогвартс. А уже через пару недель Гарри будет мчаться в поезде Хогвартс-экспресс навстречу новой жизни, где его ждут невероятные приключения, верные друзья и самое главное — ключ к разгадке тайны смерти его родителей.",
+      "year": 2001,
+      "budget": {
+        "value": 125000000,
+        "currency": "$"
+      },
+      "poster": {
+        "url": "https://st.kp.yandex.net/images/film_big/689.jpg",
+        "previewUrl": "https://st.kp.yandex.net/images/film_iphone/iphone360_689.jpg"
+      },
+      "genres": [
+        {
+          "name": "фэнтези"
+        },
+        {
+          "name": "приключения"
+        },
+        {
+          "name": "семейный"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Великобритания"
+        },
+        {
+          "name": "США"
+        }
+      ],
+      "videos": {
+        "trailers": [
+          {
+            "url": "https://www.youtube.com/v/geNlXmmIp7w",
+            "name": "Трейлер"
+          },
+          {
+            "url": "https://www.youtube.com/v/W_eE0t8gVbE",
+            "name": "Русский ТВ-ролик"
+          },
+          {
+            "url": "https://www.youtube.com/v/c1JSlps42yY",
+            "name": "Невошедшие сцены — «Урок зельеварения»"
+          },
+          {
+            "url": "https://www.youtube.com/v/f1N8-L5cuWQ",
+            "name": "Фрагмент №4"
+          },
+          {
+            "url": "https://www.youtube.com/v/50N2eB0JI80",
+            "name": "Фрагмент №2"
+          },
+          {
+            "url": "https://www.youtube.com/v/I8zSVKZd8U4",
+            "name": "DVD-трейлер"
+          },
+          {
+            "url": "https://www.youtube.com/v/F3YR1-gJjWM",
+            "name": "Фрагмент №3"
+          },
+          {
+            "url": "https://www.youtube.com/v/_v5g_GFm1W0",
+            "name": "Фрагмент №1"
+          },
+          {
+            "url": "https://www.youtube.com/v/l6bNlbbyZKY",
+            "name": "Невошедшие сцены — «Яичница»"
+          },
+          {
+            "url": "https://www.youtube.com/v/H4N34KM5V6o",
+            "name": "Невошедшие сцены — «Новая форма»"
+          },
+          {
+            "url": "https://www.youtube.com/v/2aQiLzsK5xU",
+            "name": "Невошедшие сцены — «Список покупок»"
+          },
+          {
+            "url": "https://www.youtube.com/v/XBHn-tO2dnQ",
+            "name": "Невошедшие сцены — «Друзья»"
+          },
+          {
+            "url": "https://www.youtube.com/v/Ib670Xu6-kk",
+            "name": "Невошедшие сцены — «Рождество»"
+          },
+          {
+            "url": "https://www.youtube.com/v/eKSB0gXl9dw",
+            "name": "Трейлер №2"
+          },
+          {
+            "url": "https://www.youtube.com/v/qbiO6gVSydY",
+            "name": "ТВ-ролик"
+          },
+          {
+            "url": "https://www.youtube.com/embed/k71hjl3zWsA",
+            "name": "Trailer 3"
+          },
+          {
+            "url": "https://www.youtube.com/embed/Q61YhARNOPg",
+            "name": "Trailer 2"
+          },
+          {
+            "url": "https://www.youtube.com/embed/PbdM1db3JbY",
+            "name": "Trailer"
+          },
+          {
+            "url": "https://www.youtube.com/embed/ly3tLiu-bmc",
+            "name": "Гарри Поттер и философский камень"
+          },
+          {
+            "url": "https://www.youtube.com/embed/TXB31YDIJwk",
+            "name": "Гарри Поттер и философский камень - Трейлер"
+          }
+        ]
+      },
+      "ageRating": 12
+    },
+    {
+      "fees": {
+        "world": {
+          "value": 774136705,
+          "currency": "$"
+        }
+      },
+      "rating": {
+        "imdb": 8.7
+      },
+      "movieLength": 169,
+      "id": 258687,
+      "name": "Интерстеллар",
+      "description": "Когда засуха, пыльные бури и вымирание растений приводят человечество к продовольственному кризису, коллектив исследователей и учёных отправляется сквозь червоточину (которая предположительно соединяет области пространства-времени через большое расстояние) в путешествие, чтобы превзойти прежние ограничения для космических путешествий человека и найти планету с подходящими для человечества условиями.",
+      "year": 2014,
+      "budget": {
+        "value": 165000000,
+        "currency": "$"
+      },
+      "poster": {
+        "url": "https://st.kp.yandex.net/images/film_big/258687.jpg",
+        "previewUrl": "https://st.kp.yandex.net/images/film_iphone/iphone360_258687.jpg"
+      },
+      "genres": [
+        {
+          "name": "фантастика"
+        },
+        {
+          "name": "драма"
+        },
+        {
+          "name": "приключения"
+        }
+      ],
+      "countries": [
+        {
+          "name": "США"
+        },
+        {
+          "name": "Великобритания"
+        },
+        {
+          "name": "Канада"
+        }
+      ],
+      "videos": {
+        "trailers": [
+          {
+            "url": "https://www.youtube.com/embed/0vxOhd4qlnA",
+            "name": "Interstellar Movie - Official Trailer 3"
+          },
+          {
+            "url": "https://www.youtube.com/embed/LY19rHKAaAg",
+            "name": "Interstellar – Trailer 4 – Official Warner Bros."
+          },
+          {
+            "url": "https://www.youtube.com/embed/Rt2LHkSwdPQ",
+            "name": "Interstellar Movie - Official Trailer 2"
+          },
+          {
+            "url": "https://www.youtube.com/embed/ePbKGoIGAXY",
+            "name": "Interstellar – Trailer 3 – Official Warner Bros."
+          },
+          {
+            "url": "https://www.youtube.com/embed/2LqzF5WauAw",
+            "name": "Interstellar Movie - Official Trailer"
+          },
+          {
+            "url": "https://www.youtube.com/embed/zSWdZVtXT7E",
+            "name": "Interstellar - Trailer - Official Warner Bros. UK"
+          },
+          {
+            "url": "https://www.youtube.com/embed/nyc6RJEEe0U",
+            "name": "Interstellar Movie - Official Teaser"
+          },
+          {
+            "url": "https://www.youtube.com/embed/827FNDpQWrQ",
+            "name": "Interstellar - Teaser Trailer - Official Warner Bros. UK"
+          },
+          {
+            "url": "https://www.youtube.com/embed/qcPfI0y7wRU",
+            "name": "Интерстеллар (Interstellar) -- дублированный трейлер"
+          }
+        ]
+      },
+      "ageRating": 16
+    },
+    {
+      "videos": {
+        "trailers": [
+          {
+            "url": "https://www.youtube.com/embed/GPffK9Ap71E",
+            "name": "Брат 2 - Trailer"
+          }
+        ]
+      },
+      "fees": {
+        "world": {
+          "value": 543825,
+          "currency": "$"
+        }
+      },
+      "id": 41520,
+      "name": "Брат 2",
+      "rating": {
+        "imdb": 7.7
+      },
+      "description": "Участвуя в программе на телевидении, Данила Багров встречает своих друзей по службе в Чечне. Одного из них внезапно убивают. Выясняется, что у того были неприятности из-за брата-хоккеиста в Америке. Данила должен разобраться. Он вылетает в Америку и за компанию берёт с собой старшего брата.",
+      "year": 2000,
+      "budget": {
+        "value": 1500000,
+        "currency": "$"
+      },
+      "poster": {
+        "url": "https://st.kp.yandex.net/images/film_big/41520.jpg",
+        "previewUrl": "https://st.kp.yandex.net/images/film_iphone/iphone360_41520.jpg"
+      },
+      "genres": [
+        {
+          "name": "боевик"
+        },
+        {
+          "name": "криминал"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Россия"
+        },
+        {
+          "name": "США"
+        }
+      ],
+      "movieLength": 127,
+      "ageRating": 16
+    }
+  ],
+  "total": 194,
+  "limit": 15,
+  "page": 1,
+  "pages": 13
+}
