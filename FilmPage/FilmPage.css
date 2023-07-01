@@ -1,0 +1,140 @@
+.film-page {
+  padding-bottom: 30px;
+}
+.container {
+  max-width: 1280px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+.film-page__header {
+  margin-bottom: 35px;
+}
+.film-page__header-inner {
+  display: flex;
+  align-items: flex-start;
+}
+.film-page__header-left {
+  margin-right: 30px;
+  max-width: 370px;
+  flex-shrink: 0;
+}
+.film-page__header-left-img {
+  margin-bottom: 20px;
+}
+.film-page__header-left-img img {
+  width: 100%;
+  border-radius: 4px;
+}
+.film-page__header-left-rating {
+  text-transform: uppercase;
+  padding: 20px;
+  text-align: center;
+  background-color: #36333b98;
+  border-radius: 4px;
+}
+.film-page__header-right {
+  background-color: #36333b98;
+  padding: 15px;
+  font-size: 16px;
+  line-height: 23px;
+  border-radius: 4px;
+}
+.film-page__header-right-title {
+  font-weight: bold;
+  margin-bottom: 25px;
+  font-size: 24px;
+}
+.film-page__header-right-description {
+  margin-bottom: 20px;
+}
+.film-page__header-right-about {
+}
+.film-page__header-right-subtitle {
+  font-size: 20px;
+  margin-bottom: 15px;
+  font-weight: bold;
+}
+.film-page__header-right-about-line + .film-page__header-right-about-line {
+  margin-top: 15px;
+}
+.film-page__header-right-about-line {
+}
+.film-page__header-right-about-line span {
+  display: inline-block;
+  width: 180px;
+  opacity: 0.7;
+}
+.film-page__trailer {
+  width: 100%;
+  height: 500px;
+}
+.film-page__trailer-selector {
+  width: 500px;
+  background-color: red;
+  border: 1px solid #000;
+}
+
+.film-page__trailer-selector option {
+  background-color: aqua;
+  padding: 20px;
+}
+.film-page__trailers {
+}
+.film-page__trailers-selector {
+  max-width: 400px;
+  position: relative;
+  margin-bottom: 30px;
+  margin-left: auto;
+}
+.film-page__btn {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  border-radius: 6px;
+  overflow: hidden;
+  background-color: #342e3f;
+  border: 1px solid #fff;
+}
+.film-page__btn span {
+  padding: 6px 10px;
+  overflow: hidden;
+  width: 100%;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  color: #fff;
+  font-size: 15px;
+}
+.film-page__btn svg {
+  fill: #fff;
+  width: 20px;
+  height: 20px;
+  transform: scale(-1);
+  transition: all 0.3s;
+  margin: 4px;
+}
+.film-page__trailers-selector--active .film-page__btn svg {
+  transform: scale(-1) rotate(-180deg);
+}
+.film-page__trailers-list {
+  width: 100%;
+  position: absolute;
+  display: none;
+  max-height: 250px;
+  overflow: auto;
+  border-radius: 6px;
+  background-color: #342e3f;
+}
+.film-page__trailers-selector--active .film-page__trailers-list {
+  display: block;
+}
+.film-page__trailers-item {
+  padding: 5px 10px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  cursor: pointer;
+  transition: 0.3s all;
+}
+.film-page__trailers-item:hover {
+  background-color: #211e29;
+}
