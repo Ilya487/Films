@@ -24,6 +24,11 @@ class Films {
     }
   }
 
+  setCountPagesOnScreen(maxPages) {
+    this.maxPagesOnScreen = maxPages;
+    this.render(this.url);
+  }
+
   parsingMovieLength(movieLength) {
     const hours = Math.floor(movieLength / 60);
     const minutes = movieLength - 60 * hours;
@@ -31,6 +36,8 @@ class Films {
   }
 
   async render(url) {
+    this.url = url;
+
     this.data = await this.getFilms(url);
 
     let filmsHtml = "";
