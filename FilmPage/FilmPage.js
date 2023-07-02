@@ -1,8 +1,12 @@
 class FilmPage {
-  render(id) {
+  render() {
     ROOT__FILM__PAGE.innerHTML = ``;
 
-    const film = films.data.docs.filter((film) => film.id == id)[0];
+    const film = JSON.parse(localStorage.getItem("clicked film"));
+    console.log(film);
+
+    document.title = film.name;
+
     if (!film) return;
 
     const trailers = this.drawTrailers(film.videos);
@@ -153,3 +157,4 @@ class FilmPage {
 }
 
 const filmPage = new FilmPage();
+filmPage.render();

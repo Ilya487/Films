@@ -58,8 +58,10 @@
   margin-top: 15px;
 }
 .film-page__header-right-about-line {
+  display: flex;
 }
 .film-page__header-right-about-line span {
+  flex-shrink: 0;
   display: inline-block;
   width: 180px;
   opacity: 0.7;

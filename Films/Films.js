@@ -49,7 +49,7 @@ class Films {
                     class="films__img"
                     src=${film.poster.url}
                     alt="${film.name} poster"
-                    onclick="filmPage.render(${film.id})"
+                    onclick="films.openFilmDescription(${film.id})"
                 />
                 <p class="films__name">${film.name}</p>
                 <p class="films__year">${film.year} г.</p>
@@ -194,6 +194,13 @@ class Films {
     const button = document.querySelector(`[data-number="${page + 1}"]`);
 
     this.switchPage(button, url, page);
+  }
+  openFilmDescription(id) {
+    const film = this.data.docs.filter((film) => film.id == id)[0];
+
+    localStorage.setItem("clicked film", JSON.stringify(film));
+
+    window.location.href = "filmDescription.html";
   }
 }
 
