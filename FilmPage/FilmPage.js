@@ -136,10 +136,14 @@ class FilmPage {
     trailresBtnText.textContent = trailerName;
 
     const trailersPlayer = document.querySelector(".film-page__trailer");
+    const container = trailersPlayer.parentElement;
+    trailersPlayer.remove();
 
     const trailerURL = this.validationTrailerURL(trailerName, trailers);
 
     trailersPlayer.setAttribute("src", trailerURL);
+
+    container.appendChild(trailersPlayer);
   }
 
   validationTrailerURL(trailerName, trailers) {
