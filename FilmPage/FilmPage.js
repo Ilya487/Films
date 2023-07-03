@@ -46,18 +46,28 @@ class FilmPage {
                 )}
                 </div>
                 <div class="film-page__header-right-about-line">
-                <span>Возраст</span> ${film.ageRating}+
+                <span>Возраст</span> ${film.ageRating} +
                 </div>
-                <div class="film-page__header-right-about-line">
-                <span>Бюджет</span> ${film.budget?.value.toLocaleString()}${
-      film.budget?.currency
-    }
-                </div>
-                <div class="film-page__header-right-about-line">
-                <span>Сборы в мире</span> ${film.fees?.world.value.toLocaleString()}${
-      film.fees?.world.currency
-    }
-                </div>
+                
+                ${
+                  film.budget
+                    ? `<div class="film-page__header-right-about-line">
+                        <span>Бюджет</span>${film.budget?.value.toLocaleString()}${
+                        film.budget?.currency
+                      }</div>`
+                    : ""
+                }
+
+                ${
+                  film.fees
+                    ? `<div class="film-page__header-right-about-line">
+                        <span>Сборы в мире</span>${film.fees.world.value.toLocaleString()}${
+                        film.fees.world.currency
+                      }</div>`
+                    : ""
+                }
+                
+                
             </div>
             </div>
         </div>
@@ -72,7 +82,7 @@ class FilmPage {
   }
 
   drawTrailers({ trailers }) {
-    if (!trailers) return;
+    if (trailers.length == 0) return;
     let listOfTrailers = `
         <ul class="film-page__trailers-list">
         `;
