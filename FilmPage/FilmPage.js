@@ -83,6 +83,9 @@ class FilmPage {
 
   drawTrailers({ trailers }) {
     if (trailers.length == 0) return;
+
+    trailers = trailers.filter((trailer) => trailer.url.includes("youtube"));
+
     let listOfTrailers = `
         <ul class="film-page__trailers-list">
         `;
@@ -160,12 +163,12 @@ class FilmPage {
       (trailer) => trailer.name == trailerName
     )[0].url;
 
-    if (!trailerUrl.includes("youtube")) return trailerUrl;
-
     if (trailerUrl.includes("embed")) return trailerUrl;
-    else {
-      return trailerUrl.replace("/v/", "/embed/");
-    }
+
+    if (trailerUrl.includes("/v/")) return trailerUrl.replace("/v/", "/embed/");
+
+    if (trailerUrl.includes("watch?v="))
+      return trailerUrl.replace("watch?v=", "/embed/");
   }
 }
 
