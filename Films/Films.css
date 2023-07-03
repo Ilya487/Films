@@ -1,6 +1,7 @@
 .films__container {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  justify-content: center;
   max-width: 1280px;
   padding: 0 15px;
   margin: 0 auto;
@@ -11,11 +12,12 @@
   position: relative;
   display: flex;
   flex-direction: column;
+  max-width: 406px;
+  margin: 0 auto;
 }
 .films__img {
   max-width: 100%;
   max-height: 605px;
-  min-height: 604px;
   object-fit: cover;
   margin-bottom: 20px;
   cursor: pointer;

@@ -196,6 +196,8 @@ class Films {
     this.switchPage(button, url, page);
   }
   openFilmDescription(id) {
+    history.replaceState(this.url, "");
+
     const film = this.data.docs.filter((film) => film.id == id)[0];
 
     localStorage.setItem("clicked film", JSON.stringify(film));
@@ -207,4 +209,4 @@ class Films {
 const films = new Films(8);
 // films.render("server/films.json");
 
-films.render(MAIN_URL);
+films.render(history.state ?? MAIN_URL);

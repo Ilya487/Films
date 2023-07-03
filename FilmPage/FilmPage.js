@@ -3,7 +3,6 @@ class FilmPage {
     ROOT__FILM__PAGE.innerHTML = ``;
 
     const film = JSON.parse(localStorage.getItem("clicked film"));
-    console.log(film);
 
     document.title = film.name;
 
@@ -162,3 +161,11 @@ class FilmPage {
 
 const filmPage = new FilmPage();
 filmPage.render();
+
+document.addEventListener("click", (e) => {
+  if (e.target.closest(".film-page__trailers-selector")) return;
+
+  document
+    .querySelector(".film-page__trailers-selector")
+    .classList.remove("film-page__trailers-selector--active");
+});
