@@ -11,12 +11,19 @@
 }
 
 .header__inner {
-  min-height: 90px;
+  min-height: 85px;
   display: flex;
   justify-content: space-between;
   align-items: center;
 }
-
+.header__link {
+  font-size: 22px;
+  transition: color ease 0.5s;
+  margin-right: 10px;
+}
+.header__link:hover {
+  color: #dad9d9;
+}
 .header__search {
   display: flex;
   align-items: center;
@@ -39,7 +46,7 @@
   color: #000;
   padding-left: 45px;
   border-radius: 5px;
-  transition: width 0.55s ease;
+  transition: width 0.55s ease-out;
 }
 .header__search:hover input,
 .header__search input:focus {
