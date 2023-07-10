@@ -45,12 +45,13 @@ class Films {
     this.data.docs.forEach((film) => {
       filmsHtml += `
             <div class="films__item">
-                <img
-                    class="films__img"
-                    src=${film.poster?.url || film.poster}
-                    alt="${film.name} poster"
-                    onclick="films.openFilmDescription(${film.id})"
-                />
+                <div class="films__img">
+                  <img
+                      src=${film.poster?.url || film.poster}
+                      alt="${film.name} poster"
+                      onclick="films.openFilmDescription(${film.id})"
+                  />
+                </div>  
                 <p class="films__name">${film.name}</p>
                 <p class="films__year">${film.year} г.</p>
                 <p class="films__length">${this.parsingMovieLength(
@@ -207,6 +208,6 @@ class Films {
 }
 
 const films = new Films(8);
-// films.render("server/films.json");
+films.render("server.json");
 
-films.render(history.state ?? MAIN_URL);
+// films.render(history.state ?? MAIN_URL);
