@@ -84,7 +84,11 @@ class FilmPage {
   drawTrailers({ trailers }) {
     if (trailers.length == 0) return "";
 
-    trailers = trailers.filter((trailer) => trailer.url.includes("youtube"));
+    if (
+      trailers.filter((trailer) => trailer.url.includes("youtube")).length > 0
+    ) {
+      trailers = trailers.filter((trailer) => trailer.url.includes("youtube"));
+    } else return "";
 
     let listOfTrailers = `
         <ul class="film-page__trailers-list">
