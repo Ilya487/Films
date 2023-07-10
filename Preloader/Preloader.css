@@ -1,0 +1,15 @@
+.preloader__container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.preloader__container img {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
