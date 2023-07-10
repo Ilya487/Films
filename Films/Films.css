@@ -39,8 +39,10 @@
 .films__year,
 .films__genres,
 .films__length {
-  /* color: #fff; */
   opacity: 0.8;
+}
+.films__genres {
+  line-height: 22px;
 }
 .films__year,
 .films__length {
