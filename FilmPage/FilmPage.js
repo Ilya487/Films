@@ -8,7 +8,7 @@ class FilmPage {
 
     if (!film) return;
 
-    const trailers = this.drawTrailers(film.videos);
+    const trailers = film.videos ? this.drawTrailers(film.videos) : "";
 
     const html = `
         <div class="container">
@@ -82,7 +82,7 @@ class FilmPage {
   }
 
   drawTrailers({ trailers }) {
-    if (trailers.length == 0) return;
+    if (trailers.length == 0) return "";
 
     trailers = trailers.filter((trailer) => trailer.url.includes("youtube"));
 

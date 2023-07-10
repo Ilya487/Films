@@ -47,7 +47,7 @@ class Films {
             <div class="films__item">
                 <img
                     class="films__img"
-                    src=${film.poster.url}
+                    src=${film.poster?.url || film.poster}
                     alt="${film.name} poster"
                     onclick="films.openFilmDescription(${film.id})"
                 />
