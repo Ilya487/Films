@@ -15,6 +15,10 @@ class Header {
       }
     });
   }
+
+  goToMain(e) {
+    localStorage.setItem("main", 1);
+  }
 }
 
 const header = new Header();
