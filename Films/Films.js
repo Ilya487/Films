@@ -220,5 +220,3 @@ class Films {
 
 const films = new Films(8);
 // films.render("server.json");
-
-films.render(history.state ?? MAIN_URL);
