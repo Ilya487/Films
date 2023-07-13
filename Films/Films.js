@@ -36,6 +36,8 @@ class Films {
   }
 
   async render(url) {
+    preloader.render();
+
     this.url = url;
 
     this.data = await this.getFilms(url);
@@ -120,6 +122,8 @@ class Films {
     this.drawPrevNextButtons(pages, page, url);
 
     this.setEventOnPageBtn(url, page);
+
+    preloader.clear();
   }
 
   setEventOnPageBtn(url, page) {
@@ -208,6 +212,6 @@ class Films {
 }
 
 const films = new Films(8);
-films.render("server.json");
+// films.render("server.json");
 
-// films.render(history.state ?? MAIN_URL);
+films.render(history.state ?? MAIN_URL);
