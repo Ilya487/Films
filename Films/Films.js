@@ -25,6 +25,8 @@ class Films {
   }
 
   setCountPagesOnScreen(maxPages) {
+    localStorage.setItem("maxPagesOnScreen", maxPages);
+
     this.maxPagesOnScreen = maxPages;
     this.render(this.url);
   }
@@ -218,5 +220,5 @@ class Films {
   }
 }
 
-const films = new Films(8);
+const films = new Films(+localStorage.getItem("maxPagesOnScreen") || 8);
 // films.render("server.json");
