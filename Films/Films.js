@@ -84,6 +84,10 @@ class Films {
     const pages = this.data.pages;
     const page = this.data.page;
 
+    this.maxPagesOnScreen =
+      this.maxPagesOnScreen > pages ? pages : this.maxPagesOnScreen;
+    console.log(this.maxPagesOnScreen);
+
     let buttonsHtml = ``;
     const center = Math.floor(this.maxPagesOnScreen / 2);
     let start;
