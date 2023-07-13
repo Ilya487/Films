@@ -86,7 +86,10 @@ class Films {
 
     this.maxPagesOnScreen =
       this.maxPagesOnScreen > pages ? pages : this.maxPagesOnScreen;
-    console.log(this.maxPagesOnScreen);
+    if (this.maxPagesOnScreen <= 1) {
+      preloader.clear();
+      return;
+    }
 
     let buttonsHtml = ``;
     const center = Math.floor(this.maxPagesOnScreen / 2);
