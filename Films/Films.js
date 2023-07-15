@@ -38,6 +38,8 @@ class Films {
   }
 
   async render(url) {
+    ROOT__FILMS.innerHTML = "";
+
     preloader.render();
 
     this.url = url;
