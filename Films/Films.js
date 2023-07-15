@@ -221,4 +221,3 @@ class Films {
 }
 
 const films = new Films(+localStorage.getItem("maxPagesOnScreen") || 8);
-// films.render("server.json");

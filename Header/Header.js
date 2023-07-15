@@ -5,7 +5,12 @@ class Header {
   }
 
   render() {
-    films.render(templateForSearch + `&name=${this.searchField.value}`);
+    localStorage.setItem(
+      "searchUrl",
+      templateForSearch + `&name=${this.searchField.value}`
+    );
+
+    location.href = "/";
   }
 
   setEventOnSearchField() {
