@@ -17,6 +17,7 @@
   margin-right: 30px;
   max-width: 370px;
   flex-shrink: 0;
+  min-width: 25%;
 }
 .film-page__header-left-img {
   margin-bottom: 20px;
