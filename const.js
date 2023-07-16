@@ -7,3 +7,4 @@ const templateForSearch =
 const ROOT__FILMS = document.querySelector(".films");
 const ROOT__FILM__PAGE = document.querySelector(".film-page");
 const ROOT__PRELOADER = document.querySelector(".preloader");
+const ROOT__ERROR = document.querySelector(".error");
