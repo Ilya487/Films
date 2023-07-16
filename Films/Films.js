@@ -47,6 +47,11 @@ class Films {
 
       this.data = await this.getFilms(url);
 
+      if (this.data.docs.length == 0) {
+        this.notFound(url);
+        return;
+      }
+
       let filmsHtml = "";
 
       this.data.docs.forEach((film) => {
@@ -87,6 +92,23 @@ class Films {
       preloader.clear();
       error.render();
     }
+  }
+
+  notFound(url) {
+    preloader.clear();
+
+    const name = url.slice(url.indexOf("&name=")).replace("&name=", "");
+
+    ROOT__FILMS.innerHTML = `
+        <div class="films__notFound">
+        <h1 class="films__notFound-header">
+          По запросу «${name}» ничего не найдено
+        </h1>
+        <p class="films__notFound-text">
+          К сожалению по вашему запросу ничего не найдено.
+        </p>
+      </div>
+    `;
   }
 
   drawPages(url) {

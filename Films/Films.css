@@ -100,3 +100,17 @@
 .pages__item-btn--active {
   background-color: #185bc3;
 }
+.films__notFound {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  padding: 0 15px;
+}
+.films__notFound-header {
+  font-size: 30px;
+  margin-bottom: 25px;
+}
+.films__notFound-text {
+  opacity: 0.5;
+}
