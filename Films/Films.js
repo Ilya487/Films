@@ -38,18 +38,19 @@ class Films {
   }
 
   async render(url) {
-    ROOT__FILMS.innerHTML = "";
+    try {
+      ROOT__FILMS.innerHTML = "";
 
-    preloader.render();
+      preloader.render();
 
-    this.url = url;
+      this.url = url;
 
-    this.data = await this.getFilms(url);
+      this.data = await this.getFilms(url);
 
-    let filmsHtml = "";
+      let filmsHtml = "";
 
-    this.data.docs.forEach((film) => {
-      filmsHtml += `
+      this.data.docs.forEach((film) => {
+        filmsHtml += `
             <div class="films__item">
                 <div class="films__img">
                   <img
@@ -71,17 +72,21 @@ class Films {
                 )}">${film.rating.imdb}</div>
             </div>
         `;
-    });
+      });
 
-    const html = `
+      const html = `
     <div class="films__container">
         ${filmsHtml}
         </div>
     `;
 
-    ROOT__FILMS.innerHTML = html;
+      ROOT__FILMS.innerHTML = html;
 
-    this.drawPages(url);
+      this.drawPages(url);
+    } catch (e) {
+      preloader.clear();
+      error.render();
+    }
   }
 
   drawPages(url) {
