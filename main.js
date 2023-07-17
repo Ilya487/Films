@@ -12,6 +12,4 @@ function start() {
   films.render(history.state ?? MAIN_URL);
 }
 
-// start();
-
-films.render("server/server.json");
+start();
