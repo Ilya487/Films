@@ -1,6 +1,6 @@
 .footer {
   background-color: #342e3f;
-  padding: 20px 0;
+  padding: 15px 0;
 }
 .container {
   max-width: 1280px;
@@ -29,4 +29,26 @@
 .footer__copy {
   text-align: center;
   opacity: 0.5;
+}
+/* =================================== ADAPTIV =================================== */
+@media (max-width: 720px) {
+  .footer__inner {
+    display: block;
+  }
+  .footer__info {
+    margin-top: 15px;
+    text-align: center;
+  }
+  .footer__main-link {
+    display: block;
+    text-align: center;
+  }
+}
+@media (max-width: 530px) {
+  .footer__info span {
+    visibility: hidden;
+  }
+  .footer__info-link {
+    display: block;
+  }
 }
