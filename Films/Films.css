@@ -1,5 +1,6 @@
 .films {
   padding: 35px 0;
+  flex-grow: 1;
 }
 .films__container {
   display: grid;

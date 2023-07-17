@@ -11,24 +11,25 @@
     <link rel="stylesheet" href="Footer/Footer.css" />
   </head>
   <body>
-    <header class="header">
-      <div class="container">
-        <div class="header__inner">
-          <a
-            class="main-link"
-            href="index.html"
-            onclick="header.goToMain(event)"
-            >На главную</a
-          >
-          <div class="header__search">
-            <img src="img/icons8-лупа-64.png" alt="" />
-            <input type="text" placeholder="Поиск" />
+    <div class="wrapper">
+      <header class="header">
+        <div class="container">
+          <div class="header__inner">
+            <a
+              class="main-link"
+              href="index.html"
+              onclick="header.goToMain(event)"
+              >На главную</a
+            >
+            <div class="header__search">
+              <img src="img/icons8-лупа-64.png" alt="" />
+              <input type="text" placeholder="Поиск" />
+            </div>
           </div>
         </div>
-      </div>
-    </header>
-    <div class="films">
-      <!-- <div class="films__notFound">
+      </header>
+      <div class="films">
+        <!-- <div class="films__notFound">
         <h1 class="films__notFound-header">
           По запросу «Привет» ничего не найдено
         </h1>
@@ -36,31 +37,32 @@
           К сожалению по вашему запросу ничего не найдено.
         </p>
       </div> -->
-    </div>
-    <div class="preloader"></div>
-    <div class="error"></div>
-    <footer class="footer">
-      <div class="container">
-        <div class="footer__inner">
-          <a
-            class="main-link"
-            href="index.html"
-            onclick="header.goToMain(event)"
-            >На главную</a
-          >
-          <div class="footer__info">
-            <a class="footer__info-link" href="#"
-              >политика конфиденциальности</a
-            >
-            <span>|</span>
-            <a class="footer__info-link" href="#"
-              >пользовательское соглашение</a
-            >
-          </div>
-        </div>
-        <p class="footer__copy">&copy; 2023, Films</p>
       </div>
-    </footer>
+      <div class="preloader"></div>
+      <div class="error"></div>
+      <footer class="footer">
+        <div class="container">
+          <div class="footer__inner">
+            <a
+              class="main-link"
+              href="index.html"
+              onclick="header.goToMain(event)"
+              >На главную</a
+            >
+            <div class="footer__info">
+              <a class="footer__info-link" href="#"
+                >политика конфиденциальности</a
+              >
+              <span>|</span>
+              <a class="footer__info-link" href="#"
+                >пользовательское соглашение</a
+              >
+            </div>
+          </div>
+          <p class="footer__copy">&copy; 2023, Films</p>
+        </div>
+      </footer>
+    </div>
 
     <script src="const.js"></script>
 
