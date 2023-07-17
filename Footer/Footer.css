@@ -1,0 +1,32 @@
+.footer {
+  background-color: #342e3f;
+  padding: 20px 0;
+}
+.container {
+  max-width: 1280px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+.footer__inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+.footer__inner span {
+  margin: 0 8px;
+  opacity: 0.5;
+}
+.footer__info a {
+  opacity: 0.5;
+}
+.footer__info-link {
+  transition: all 0.5s ease;
+}
+.footer__info-link:hover {
+  opacity: 1;
+}
+.footer__copy {
+  text-align: center;
+  opacity: 0.5;
+}

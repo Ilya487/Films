@@ -16,12 +16,12 @@
   justify-content: space-between;
   align-items: center;
 }
-.header__link {
+.main-link {
   font-size: 22px;
   transition: color ease 0.5s;
   margin-right: 10px;
 }
-.header__link:hover {
+.main-link:hover {
   color: #dad9d9;
 }
 .header__search {

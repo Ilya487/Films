@@ -8,13 +8,14 @@
     <link rel="icon" type="image/png" href="img/favicon.png" />
     <link rel="stylesheet" href="css/reset.css" />
     <link rel="stylesheet" href="css/style.css" />
+    <link rel="stylesheet" href="Footer/Footer.css" />
   </head>
   <body>
     <header class="header">
       <div class="container">
         <div class="header__inner">
           <a
-            class="header__link"
+            class="main-link"
             href="index.html"
             onclick="header.goToMain(event)"
             >На главную</a
@@ -38,6 +39,28 @@
     </div>
     <div class="preloader"></div>
     <div class="error"></div>
+    <footer class="footer">
+      <div class="container">
+        <div class="footer__inner">
+          <a
+            class="main-link"
+            href="index.html"
+            onclick="header.goToMain(event)"
+            >На главную</a
+          >
+          <div class="footer__info">
+            <a class="footer__info-link" href="#"
+              >политика конфиденциальности</a
+            >
+            <span>|</span>
+            <a class="footer__info-link" href="#"
+              >пользовательское соглашение</a
+            >
+          </div>
+        </div>
+        <p class="footer__copy">&copy; 2023, Films</p>
+      </div>
+    </footer>
 
     <script src="const.js"></script>
 
