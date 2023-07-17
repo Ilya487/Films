@@ -33,16 +33,16 @@
 /* =================================== ADAPTIV =================================== */
 @media (max-width: 720px) {
   .footer__inner {
-    display: block;
+    flex-direction: column;
   }
   .footer__info {
     margin-top: 15px;
     text-align: center;
   }
-  .footer__main-link {
+  /* .footer__main-link {
     display: block;
     text-align: center;
-  }
+  } */
 }
 @media (max-width: 530px) {
   .footer__info span {
