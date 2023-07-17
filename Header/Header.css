@@ -56,3 +56,20 @@
 .header__search input::placeholder {
   color: #000;
 }
+/* =================================== ADAPTIV =================================== */
+@media (max-width: 550px) {
+  .header__search:hover input,
+  .header__search input:focus {
+    width: 240px;
+  }
+}
+
+@media (max-width: 420px) {
+  .header__inner {
+    display: block;
+    padding: 13px 0;
+  }
+  .header__search {
+    margin-top: 15px;
+  }
+}
