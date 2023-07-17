@@ -126,3 +126,20 @@
     font-size: 15px;
   }
 }
+@media (max-width: 440px) {
+  .pages__items {
+    justify-content: space-evenly;
+  }
+  .pages__item-btn--number {
+    display: none;
+  }
+  .films__container {
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  }
+  .films__item {
+    font-size: 15px;
+  }
+  .films__name {
+    font-size: 18px;
+  }
+}
