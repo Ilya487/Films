@@ -107,6 +107,8 @@
   top: 50%;
   transform: translate(-50%, -50%);
   padding: 0 15px;
+  width: 100%;
+  text-align: center;
 }
 .films__notFound-header {
   font-size: 30px;
@@ -114,4 +116,13 @@
 }
 .films__notFound-text {
   opacity: 0.5;
+}
+/* =================================== ADAPTIV =================================== */
+@media (max-width: 600px) {
+  .films__notFound-header {
+    font-size: 23px;
+  }
+  .films__notFound-text {
+    font-size: 15px;
+  }
 }
