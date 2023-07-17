@@ -9,8 +9,9 @@ function start() {
     localStorage.removeItem("searchUrl");
     return;
   }
-
   films.render(history.state ?? MAIN_URL);
 }
 
-start();
+// start();
+
+films.render("server/server.json");

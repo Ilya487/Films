@@ -10,46 +10,48 @@
     <link rel="stylesheet" href="Footer/Footer.css" />
   </head>
   <body>
-    <header class="header">
-      <div class="container">
-        <div class="header__inner">
-          <a
-            class="main-link"
-            href="index.html"
-            onclick="header.goToMain(event)"
-            >На главную</a
-          >
-          <div class="header__search">
-            <img src="img/icons8-лупа-64.png" alt="" />
-            <input type="text" placeholder="Поиск" />
+    <div class="wrapper">
+      <header class="header">
+        <div class="container">
+          <div class="header__inner">
+            <a
+              class="main-link"
+              href="index.html"
+              onclick="header.goToMain(event)"
+              >На главную</a
+            >
+            <div class="header__search">
+              <img src="img/icons8-лупа-64.png" alt="" />
+              <input type="text" placeholder="Поиск" />
+            </div>
           </div>
         </div>
-      </div>
-    </header>
+      </header>
 
-    <div class="film-page"></div>
-    <footer class="footer">
-      <div class="container">
-        <div class="footer__inner">
-          <a
-            class="main-link footer__main-link"
-            href="index.html"
-            onclick="header.goToMain(event)"
-            >На главную</a
-          >
-          <div class="footer__info">
-            <a class="footer__info-link" href="#"
-              >политика конфиденциальности</a
+      <div class="film-page"></div>
+      <footer class="footer">
+        <div class="container">
+          <div class="footer__inner">
+            <a
+              class="main-link footer__main-link"
+              href="index.html"
+              onclick="header.goToMain(event)"
+              >На главную</a
             >
-            <span>|</span>
-            <a class="footer__info-link" href="#"
-              >пользовательское соглашение</a
-            >
+            <div class="footer__info">
+              <a class="footer__info-link" href="#"
+                >политика конфиденциальности</a
+              >
+              <span>|</span>
+              <a class="footer__info-link" href="#"
+                >пользовательское соглашение</a
+              >
+            </div>
           </div>
+          <p class="footer__copy">&copy; 2023, Films</p>
         </div>
-        <p class="footer__copy">&copy; 2023, Films</p>
-      </div>
-    </footer>
+      </footer>
+    </div>
 
     <script src="const.js"></script>
 
