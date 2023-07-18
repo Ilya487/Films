@@ -10,7 +10,7 @@ class Header {
       templateForSearch + `&name=${this.searchField.value}`
     );
 
-    location.href = "/";
+    location.href = "index.html";
   }
 
   setEventOnSearchField() {
