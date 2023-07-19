@@ -11,13 +11,11 @@ class Films {
     xhr.setRequestHeader("Content-Type", "application/json");
     xhr.setRequestHeader("X-API-KEY", API_KEY);
 
-    xhr.responseType = "json";
-
     xhr.send();
 
     const data = await new Promise((resolve, reject) => {
       xhr.onload = () => {
-        resolve(xhr.response);
+        resolve(JSON.parse(xhr.response));
       };
     });
 
