@@ -4,13 +4,23 @@ class Films {
   }
 
   async getFilms(url) {
-    const resp = await fetch(url, {
-      headers: {
-        "Content-Type": "application/json",
-        "X-API-KEY": API_KEY,
-      },
+    const xhr = new XMLHttpRequest();
+
+    xhr.open("GET", url);
+
+    xhr.setRequestHeader("Content-Type", "application/json");
+    xhr.setRequestHeader("X-API-KEY", API_KEY);
+
+    xhr.responseType = "json";
+
+    xhr.send();
+
+    const data = await new Promise((resolve, reject) => {
+      xhr.onload = () => {
+        resolve(xhr.response);
+      };
     });
-    const data = await resp.json();
+
     return data;
   }
 
